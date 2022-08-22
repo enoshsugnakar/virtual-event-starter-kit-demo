@@ -37,8 +37,8 @@ export const COPYRIGHT_HOLDER = process.env.NEXT_PUBLIC_COPYRIGHT_HOLDER;
 
 export const CODE_OF_CONDUCT =
   '';
-export const REPO = '';
-export const SAMPLE_TICKET_NUMBER = 0212;
+export const REPO = 'https://github.com/enoshsugnakar/virtual-event-starter-kit-demo';
+export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   
   {
